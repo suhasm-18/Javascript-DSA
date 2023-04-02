@@ -13,9 +13,9 @@ function getnumber(array){
 }
 
  const result=getnumber([-5, -4, -3 ,-2, 0 , 2,4,6,8]);
- console.log(result);
-
-OR //to reduce time complexity
+ console.log(result);                                         //time complexity is quadratic
+                         
+OR //to reduce time complixity
 
 
 function getArray(array){
@@ -37,3 +37,6 @@ function getArray(array){
  }
  const result=getArray([-5, -4, -3 ,-2, 0 , 2,4,6,8]);
  console.log(result);
+
+
+// time complixity o(n)  linear
