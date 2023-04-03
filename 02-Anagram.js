@@ -19,3 +19,4 @@ function anagram(str1 ,str2){
  const check=anagram('hello' , 'llheo');
  console.log(check);
 
+// time complexity is linear.
