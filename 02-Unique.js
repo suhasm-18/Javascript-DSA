@@ -23,3 +23,6 @@ function uni(array){
 }
 const nnn=uni([1,1,2,2,3,4,4,5,6,7,8,8]);
 console.log(nnn);
+
+
+//Time Complexity linear O(n);
